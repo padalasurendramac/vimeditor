@@ -13,17 +13,17 @@
 | <img src="https://github.com/padalasurendramac/vimeditor/blob/51edd2cfaf4916b80dcfb4c123b9f9eb28efa0dc/image/escape_mode.JPG" width=250 > | <img src="https://github.com/padalasurendramac/vimeditor/blob/51edd2cfaf4916b80dcfb4c123b9f9eb28efa0dc/image/insert_mode.JPG" width=250 > | <img src="https://github.com/padalasurendramac/vimeditor/blob/51edd2cfaf4916b80dcfb4c123b9f9eb28efa0dc/image/command_mode.JPG" width=250 > |
 
 
-searching  a word in a document:-
+Searching  a word in a document:-
 
 
-mode:- escape_mode 
+Mode:- escape_mode 
 
 
-step2:- press `/is` is is a word we can replace with 
+Step2:- press `/is` is is a word we can replace with 
 
 
 
-##### note press n to finding multiple entries in document from top to buttom  and press N for checking reverse order like bottom to top
+##### Note press n to finding multiple entries in document from top to buttom  and press N for checking reverse order like bottom to top
         
         
         
