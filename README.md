@@ -27,4 +27,4 @@ step2:- press `/is` is is a word we can replace with
         
         
         
-        <img src="https://github.com/padalasurendramac/vimeditor/blob/5f21c570a62119de0d1eb17161895aadc3070fa5/image/searching_a_work_in_a_document.png" width=450 >
+  <img src="https://github.com/padalasurendramac/vimeditor/blob/5f21c570a62119de0d1eb17161895aadc3070fa5/image/searching_a_work_in_a_document.png" width=450 >
