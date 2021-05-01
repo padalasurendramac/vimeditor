@@ -14,6 +14,23 @@
 
 
 
+
+==========================================================shortcuts=========================================================
+ 
+$ - jump to the end of the line
+G - go to the last line of the document
+5gg or 5G - go to line 5
+h - move cursor left
+j - move cursor down
+k - move cursor up
+l - move cursor right
+H - move to top of screen
+M - move to middle of screen
+L - move to bottom of screen
+
+
+===========================================================================================================
+
 1. save (w) and exit (q or q! forcefully)
    mode:- command_mode
    step2:-press `:wq!` is for save and exit and press `q!` is for exit without save
