@@ -30,4 +30,4 @@ someparagraph wiht text
 | fsafsadf | fasfasd |
 
 
-<img src="https://github.com/padalasurendramac/vimeditor/blob/main/image/Learn%20Vi%20Editor%20Basics%20in%2020%20minutes%201-13%20screenshot.png?raw=true" >
+<img src="https://github.com/padalasurendramac/vimeditor/blob/main/image/Learn%20Vi%20Editor%20Basics%20in%2020%20minutes%201-13%20screenshot.png?raw=true" width=220 >
