@@ -18,7 +18,7 @@ this paragraph has some `variable` inline
 
 ![alt text](http://picsm.photos/sfasfasf/fasdfsfas)
 
-![](images/Learn Vi Editor Basics in 20 minutes 1-13 screenshot.png)
+![](images/test.png)
 
 
 
