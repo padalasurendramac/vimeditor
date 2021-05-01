@@ -19,10 +19,11 @@ searching  a word in a document:-
 mode:- escape_mode 
 
 
-step2:- press `/is`
+step2:- press `/is` is is a word we can replace with 
 
 
-        note:- if the word is multiple times in document then press `n` ( for top to buttom )
+
+##### note press n to finding multiple entries in document from top to buttom
         
         
         
