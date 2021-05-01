@@ -14,8 +14,12 @@
 
 
 searching  a word in a document:-
+
+
 mode:- escape_mode 
-step2:- press ```/<string or word>```
+
+
+step2:- press `/is`
 
 
         note:- if the word is multiple times in document then press `n` ( for top to buttom )
