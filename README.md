@@ -16,6 +16,10 @@
 
 
 ==========================================================shortcuts=========================================================
+
+Copy and paste ;-   Type "yy" to copy a line, then "p" to paste it into the other place.( escape_mode )
+
+
  
 $ - jump to the end of the line
 
