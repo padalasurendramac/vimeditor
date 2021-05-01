@@ -35,7 +35,7 @@
 
 <img src="https://github.com/padalasurendramac/vimeditor/blob/c727d044ff129bd431b2255cc99eaf26ca73eb87/image/number_unset_nonumber.JPG" >
 
-if  we know the line number then use this direct command:-
+3. if  we know the line number then use this direct command:-
 
 <img src="https://github.com/padalasurendramac/vimeditor/blob/c727d044ff129bd431b2255cc99eaf26ca73eb87/image/direct_to_the_particular_line.JPG" >
 
@@ -43,7 +43,7 @@ if  we know the line number then use this direct command:-
 
 
 
- . Searching a word in document.
+4. Searching a word in document.
 
 
 Mode:- Escape_mode 
