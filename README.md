@@ -1,6 +1,6 @@
 ### vim editor
 
-##### create file with vi
+##### Create file with vi
 `vi test`
 
 
@@ -8,7 +8,7 @@
 
 
 ##### vi modes
-| escape_mode | insert_mode ( press `i`) | command_mode ( press `:`) |
+| Escape_mode | Insert_mode ( press `i`) | Command_mode ( press `:`) |
 | -- | -- | -- |
 | <img src="https://github.com/padalasurendramac/vimeditor/blob/51edd2cfaf4916b80dcfb4c123b9f9eb28efa0dc/image/escape_mode.JPG" width=250 > | <img src="https://github.com/padalasurendramac/vimeditor/blob/51edd2cfaf4916b80dcfb4c123b9f9eb28efa0dc/image/insert_mode.JPG" width=250 > | <img src="https://github.com/padalasurendramac/vimeditor/blob/51edd2cfaf4916b80dcfb4c123b9f9eb28efa0dc/image/command_mode.JPG" width=250 > |
 
@@ -16,10 +16,10 @@
 Searching  a word in a document:-
 
 
-Mode:- escape_mode 
+Mode:- Escape_mode 
 
 
-Step2:- press `/is` is is a word we can replace with 
+Step2:- Press `/is` is is a word we can replace with 
 
 
 
