@@ -23,7 +23,7 @@ step2:- press `/is` is is a word we can replace with
 
 
 
-##### note press n to finding multiple entries in document from top to buttom
+##### note press n to finding multiple entries in document from top to buttom  and press N for checking reverse order like bottom to top
         
         
         
