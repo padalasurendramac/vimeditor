@@ -13,7 +13,37 @@
 | <img src="https://github.com/padalasurendramac/vimeditor/blob/51edd2cfaf4916b80dcfb4c123b9f9eb28efa0dc/image/escape_mode.JPG" width=250 > | <img src="https://github.com/padalasurendramac/vimeditor/blob/51edd2cfaf4916b80dcfb4c123b9f9eb28efa0dc/image/insert_mode.JPG" width=250 > | <img src="https://github.com/padalasurendramac/vimeditor/blob/51edd2cfaf4916b80dcfb4c123b9f9eb28efa0dc/image/command_mode.JPG" width=250 > |
 
 
- 1. Searching a word in document.
+
+1. save (w) and exit (q or q! forcefully)
+   mode:- command_mode
+   step2:-press `:wq!` is for save and exit and press `q!` is for exit without save
+ 
+<img src="https://github.com/padalasurendramac/vimeditor/blob/c727d044ff129bd431b2255cc99eaf26ca73eb87/image/Save_and_Exit.JPG" width=150 >
+
+<img src="https://github.com/padalasurendramac/vimeditor/blob/c727d044ff129bd431b2255cc99eaf26ca73eb87/image/exit_without_save.JPG" width=150 >
+
+
+
+2. how to searching a particular linue in a doc
+
+  Mode:- cmommand_mode
+  step:- press :set number doc changes to added number to lines and remove numbers to lines to the doc
+  
+  
+<img src="https://github.com/padalasurendramac/vimeditor/blob/c727d044ff129bd431b2255cc99eaf26ca73eb87/image/searching_doc_with_lines.JPG"  >
+
+
+<img src="https://github.com/padalasurendramac/vimeditor/blob/c727d044ff129bd431b2255cc99eaf26ca73eb87/image/number_unset_nonumber.JPG" >
+
+if  we know the line number then use this direct command:-
+
+<img src="https://github.com/padalasurendramac/vimeditor/blob/c727d044ff129bd431b2255cc99eaf26ca73eb87/image/direct_to_the_particular_line.JPG" >
+
+
+
+
+
+ . Searching a word in document.
 
 
 Mode:- Escape_mode 
