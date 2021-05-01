@@ -12,6 +12,8 @@ If you want to search and replace the pattern in the entire file, use the percen
 
 `:%s/foo/bar/g`
 
+
+
 If the {string} part is omitted, it is considered as an empty string, and the matched pattern is deleted. The following command deletes all instances of the string ‘foo’ in the current line:
 
 `:s/foo//g`
