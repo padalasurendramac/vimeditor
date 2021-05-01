@@ -18,7 +18,7 @@ this paragraph has some `variable` inline
 
 ![alt text](http://picsm.photos/sfasfasf/fasdfsfas)
 
-![](images/test.png)
+![test](images/test.png)
 
 
 
