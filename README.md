@@ -18,4 +18,4 @@ mode:- escape_mode
 step2:- press `/<string or word>'
         note:- if the word is multiple times in document then press `n` ( for top to buttom )
         
-        < imag src="https://github.com/padalasurendramac/vimeditor/blob/5f21c570a62119de0d1eb17161895aadc3070fa5/image/searching_a_work_in_a_document.png" >
+        <img src="https://github.com/padalasurendramac/vimeditor/blob/5f21c570a62119de0d1eb17161895aadc3070fa5/image/searching_a_work_in_a_document.png" >
